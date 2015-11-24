@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aadesh</title>
+    <description></description>
+    <link>http://aadesh.io/</link>
+    <atom:link href="http://aadesh.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 24 Nov 2015 15:21:57 +0530</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2015 15:21:57 +0530</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Cool stuff comming soon...!!</title>
+        <description>Thanks for your support you can check updates &lt;a href=&quot;http://twitter.com/aadesh0510&quot;&gt;here.&lt;/a&gt;
+
+&lt;br/&gt; &lt;br/&gt; &lt;br/&gt;
+&lt;div style=&quot;margin-top: 15px;&quot;&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;check_after_weak&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Please stay connected for 7.days&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;check_after_weak&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; Please stay connected for 7.days.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 24 Nov 2015 15:09:20 +0530</pubDate>
+        <link>http://aadesh.io/welcome_blog/2015/11/24/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://aadesh.io/welcome_blog/2015/11/24/welcome-to-jekyll.html</guid>
+        
+        
+        <category>welcome_blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>
